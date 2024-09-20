@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "StaggeredLayoutTestApp (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "StaggeredLayoutTestApp (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
